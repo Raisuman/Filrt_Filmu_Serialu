@@ -1,0 +1,15 @@
+D:\Visual Studio\repos\projectx\projectx\bin\Debug\net6.0\projectx.exe
+D:\Visual Studio\repos\projectx\projectx\bin\Debug\net6.0\projectx.deps.json
+D:\Visual Studio\repos\projectx\projectx\bin\Debug\net6.0\projectx.runtimeconfig.json
+D:\Visual Studio\repos\projectx\projectx\bin\Debug\net6.0\projectx.dll
+D:\Visual Studio\repos\projectx\projectx\bin\Debug\net6.0\projectx.pdb
+D:\Visual Studio\repos\projectx\projectx\obj\Debug\net6.0\projectx.csproj.AssemblyReference.cache
+D:\Visual Studio\repos\projectx\projectx\obj\Debug\net6.0\projectx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\repos\projectx\projectx\obj\Debug\net6.0\projectx.AssemblyInfoInputs.cache
+D:\Visual Studio\repos\projectx\projectx\obj\Debug\net6.0\projectx.AssemblyInfo.cs
+D:\Visual Studio\repos\projectx\projectx\obj\Debug\net6.0\projectx.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\projectx\projectx\obj\Debug\net6.0\projectx.dll
+D:\Visual Studio\repos\projectx\projectx\obj\Debug\net6.0\refint\projectx.dll
+D:\Visual Studio\repos\projectx\projectx\obj\Debug\net6.0\projectx.pdb
+D:\Visual Studio\repos\projectx\projectx\obj\Debug\net6.0\projectx.genruntimeconfig.cache
+D:\Visual Studio\repos\projectx\projectx\obj\Debug\net6.0\ref\projectx.dll
